@@ -1,1 +1,5 @@
-comparar tasa de ataque en diferentes grupos 
+#comparar tasa de ataque en diferentes grupos para identificar grupos a priorizar en intervención 
+#git add: indica que rastree la funcion 
+#git status: podemos saber qué existe en el folder, qué está rastreado, cuál puede ser incluida en el repositorio local
+#git commit: confirmar cambios 
+#git log: mostrar el historial
